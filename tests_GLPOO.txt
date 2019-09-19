@@ -1,0 +1,312 @@
+"AVEC Hans Heinrich von Twardowski OU von Twardowski Hans Heinrich, TITRE Das Cabinet des Dr. Caligari, PAYS de"
+
+{
+  "resultat": [
+    {
+      "titre": "Le Cabinet du docteur Caligari",
+      "realisateurs": [],
+      "acteurs": [
+        "Veidt Conrad",
+        "von Twardowski Hans Heinrich",
+        "Dagover Lil",
+        "Krauss Werner"
+      ],
+      "pays": "Allemagne",
+      "annee": 1920,
+      "duree": "1h14mn",
+      "autres titres": [
+        "Das Cabinet des Dr. Caligari"
+      ]
+    }
+  ]
+}
+
+
+"TITRE The blair witch project, AVEC Heather Donahue, Joshua Leonard, DE Myrick Daniel, PAYS us, EN 1999, AVANT 2000,2020,2021,2009, APRES 1998, 1905,1902"
+{
+  "resultat": [
+    {
+      "titre": "Le Projet Blair Witch",
+      "realisateurs": [
+        "Myrick Daniel",
+        "Sánchez Eduardo"
+      ],
+      "acteurs": [
+        "Donahue Heather",
+        "Leonard Joshua",
+        "Williams Michael C."
+      ],
+      "pays": "États-Unis",
+      "annee": 1999,
+      "duree": "1h21mn",
+      "autres titres": [
+        "The Blair Witch Project"
+      ]
+    }
+  ]
+}
+
+
+"EN 2011, TITRE Intouchables OU Inferno, AVEC Omar Sy OU Cluzet, EN 2015"
+
+{
+  "erreur": "Le mot-clef 'EN' n'accepte qu'une seule valeur."
+}
+
+
+"TITRE Intouchables OU Inferno, AVEC Omar Sy OU Cluzet, EN 2016 OU 2012"
+
+{
+  "resultat": [
+    {
+      "titre": "Inferno",
+      "realisateurs": [
+        "Howard Ron"
+      ],
+      "acteurs": [
+        "Foster Ben",
+        "Jones Felicity",
+        "Khan Irrfan",
+        "Sy Omar",
+        "Knudsen Sidse Babett",
+        "Hanks Tom"
+      ],
+      "pays": "États-Unis",
+      "annee": 2016,
+      "duree": "2h1mn",
+      "autres titres": []
+    }
+  ]
+}
+
+
+"AVEC Omar Sy, EN 2016 OU PAYS us OU AVANT 2014, DE Eric Toledano"
+
+{
+  "resultat": [
+    {
+      "titre": "Intouchables",
+      "realisateurs": [
+        "Nakache Olivier",
+        "Toledano Olivier Nakache & Éric",
+        "Toledano Éric"
+      ],
+      "acteurs": [
+        "Cluzet François",
+        "Sy Omar"
+      ],
+      "pays": "France",
+      "annee": 2011,
+      "duree": "1h52mn",
+      "autres titres": [
+        "The Intouchables"
+      ]
+    }
+  ]
+}
+
+
+"AVEC Redgrave Vanesse OU Bourvil,APRES 1980, PAYS gb OU TITRE Reviens-moi"
+
+{
+  "resultat": []
+}
+
+
+"TITRE Intouchables OU Inferno, AVEC Omar Sy OU Cluzet, EN 2016 OU 2012, TITRE La vie des autres"
+
+{
+  "erreur": "Le mot-clef 'TITRE' n'accepte qu'une seule valeur."
+}
+
+
+"TITRE Mmdeir belek,, EN 2015"
+
+{
+  "erreur": "Surplus d'une virgule apres 'belek'."
+}
+
+
+"TITRE Mmdeir belek OU, EN 2015"
+
+{
+  "erreur": "Une valeur est attendue apres le mot-clef 'OU'."
+}
+
+
+"PAYS fr, TITRE Intouchables OU Inferno, AVEC Cluzet, PAYS gf"
+
+{
+  "erreur": "Le mot-clef 'PAYS' n'accepte qu'une seule valeur : utilisez des 'OU'."
+}
+
+
+"PAYS us OU gb OU fr, APRES 2015, 2014, AVANT 1920 OU 2018, TITRE Life, AVEC Brooks ALbert, art Kevi, Lake Be OU Ryan Reynolds, Jenny Sla, te jen"
+
+{
+  "resultat": [
+    {
+      "titre": "Comme des bêtes",
+      "realisateurs": [],
+      "acteurs": [
+        "Brooks Albert",
+        "Moynihan Bobby",
+        "Carvey Dana",
+        "Kemper Ellie",
+        "Stonestreet Eric",
+        "Buress Hannibal",
+        "Slate Jenny",
+        "Hart Kevin",
+        "Bell Lake",
+        "C.K. Louis",
+        "Coogan Steve"
+      ],
+      "pays": "États-Unis",
+      "annee": 2016,
+      "duree": "1h27mn",
+      "autres titres": [
+        "The Secret Life of Pets"
+      ]
+    }
+  ]
+}
+
+
+"PAYS Pérou ou de mckenzie Ou avEC o'neil, APres 2008, avant 2017"
+
+{
+  "resultat": [
+    {
+      "titre": "Comancheria",
+      "realisateurs": [
+        "Mackenzie David"
+      ],
+      "acteurs": [
+        "Foster Ben",
+        "Pine Chris",
+        "Birmingham Gil",
+        "Bridges Jeff"
+      ],
+      "pays": "États-Unis",
+      "annee": 2016,
+      "duree": "1h42mn",
+      "autres titres": [
+        "Hell or High Water"
+      ]
+    },
+    {
+      "titre": "Hell or High Water",
+      "realisateurs": [
+        "Mackenzie David"
+      ],
+      "acteurs": [
+        "Foster Ben",
+        "Pine Chris",
+        "Birmingham Gil",
+        "Bridges Jeff"
+      ],
+      "pays": "États-Unis",
+      "annee": 2016,
+      "duree": "1h42mn",
+      "autres titres": []
+    },
+    {
+      "titre": "Le Monde de Dory",
+      "realisateurs": [
+        "Stanton Andrew"
+      ],
+      "acteurs": [
+        "Brooks Albert",
+        "Keaton Diane",
+        "O'Neill Ed",
+        "DeGeneres Ellen",
+        "Levy Eugene",
+        "Rolence Hayden",
+        "Olson Kaitlin",
+        "Burrell Ty"
+      ],
+      "pays": "États-Unis",
+      "annee": 2016,
+      "duree": "1h37mn",
+      "autres titres": [
+        "Finding Dory"
+      ]
+    },
+    {
+      "titre": "Perfect Sense",
+      "realisateurs": [
+        "Mackenzie David"
+      ],
+      "acteurs": [
+        "Nielsen Connie",
+        "Green Eva",
+        "MacGregor Ewan",
+        "Bremner Ewen",
+        "Dillane Stephen"
+      ],
+      "pays": "Royaume-Uni",
+      "annee": 2011,
+      "duree": "1h32mn",
+      "autres titres": []
+    },
+    {
+      "titre": "Fausta",
+      "realisateurs": [
+        "Llosa Claudia"
+      ],
+      "acteurs": [
+        "Solier Magaly"
+      ],
+      "pays": "Pérou",
+      "annee": 2009,
+      "duree": "1h35mn",
+      "autres titres": [
+        "La teta asustada",
+        "The Milk of Sorrow"
+      ]
+    }
+  ]
+}
+
+
+"TITRE"
+
+{
+  "erreur": "Une valeur ou plusieurs valeurs sont attendues apres le mot-clef TITRE."
+}
+
+
+"WOLA 2019"
+
+{
+  "erreur": "Le mot-clef 'WOLA' n'existe pas ..."
+}
+
+
+"TITRE INtouchables, WOLA 2019"
+
+{
+  "erreur": "Le mot-clef 'TITRE' n'accepte qu'une seule valeur : utilisez des 'OU'. Si le titre comporte des virgules, utilisez un 'OU' a la place de la virgule. Sinon, le mot clef 'WOLA' n'existe pas."
+}
+
+
+"AVEC OMar Sy2"
+
+{
+  "erreur": "Une valeur numerique a ete saisie pour le mot-clef AVEC"
+}
+
+
+"EN fff"
+
+{
+  "erreur": "Une valeur non-numerique a ete saisie pour le mot-clef EN : 'fff'."
+}
+
+
+"AVec Omar SY, CLuzet, Bourvil, EN 2011, AVANT 2020, DE eric toledano, PAYS 2016"
+
+{
+  "erreur": "Une valeur numerique a ete saisie pour le mot-clef PAYS."
+}
+
